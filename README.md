@@ -33,8 +33,10 @@ In the Visual Studio 2019,
 - Use Windows Authentication.
 - You can click on Test Connection to check if Connection is proper or not, once done click OK.
 - The database connection will now show in the "Server Explorer" tab. If you can’t see it, go to "View" menu and click "Server Explorer".
-- It will also show up in SQL Server Explorer (View -> SQL Server Explorer)
+- It will also show up in SQL Server Explorer (View -> SQL Server Explorer), Under the LocalDB, you can see the database by the name of  the directory path (where .mdf file is stored in your system). 
+- Rename it to **FileUploadDB_Dev**. If it gives you warning *"The Database could not be exclusively locked to perform the operation"*, Hit ok and close the Visual Studio, Reopen the solution in visual studio and follow the same step to rename the Database name.
 
+Now Your Database Connection with the .Net Core application should be good, you can run the application and open it in **Google Chrome**.
 
 ## Or Create new Database using Package Manager Console:
 
@@ -52,7 +54,7 @@ After the build succeeded, then, Run the following command to create the databas
 
 As soon as the build is succeeded, it will create the database in the LocalDB. To check, Open SQL Server Object Explorer( View -> SQL Server Object Explorer), under (localdb)\MSSQLLocalDB, expand Databases and you can see the Database named **FileUploadDB_Dev** and if you expand it, you can see two tables : dbo.Users and dbo.FileReferences.
 
-Your Database is created, build the solution and run it and make sure you use **Google Chrome** to run this Web application.
+Your Database is created, build the solution and run it and make sure you use **Google Chrome** to open this Web application.
 
 
 
