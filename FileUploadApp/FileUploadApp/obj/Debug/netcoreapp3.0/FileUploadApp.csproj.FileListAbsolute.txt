@@ -1,0 +1,454 @@
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\electron.manifest.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.exe
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.deps.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.dev.json
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.pdb
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ElectronNET.API.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\EngineIoClientDotNet.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SocketIoClientDotNet.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SuperSocket.ClientEngine.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\WebSocket4Net.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.Manifest.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.xml
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfoInputs.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfo.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.input.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.output.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorCoreGenerate.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\CreateOld.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Files.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cache
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cs
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csproj.CopyComplete
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.pdb
+C:\Niraj\Project\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csprojAssemblyReference.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\electron.manifest.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.exe
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.deps.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.dev.json
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.pdb
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ElectronNET.API.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\EngineIoClientDotNet.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SocketIoClientDotNet.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SuperSocket.ClientEngine.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\WebSocket4Net.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csprojAssemblyReference.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.Manifest.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.xml
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfoInputs.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfo.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.input.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.output.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorCoreGenerate.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Files.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cs
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csproj.CopyComplete
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final Copy\Final\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.pdb
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\electron.manifest.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.exe
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.deps.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.runtimeconfig.dev.json
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.pdb
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ElectronNET.API.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\EngineIoClientDotNet.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SocketIoClientDotNet.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\SuperSocket.ClientEngine.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\WebSocket4Net.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csprojAssemblyReference.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.Manifest.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\staticwebassets\FileUploadApp.StaticWebAssets.xml
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorAssemblyInfo.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfoInputs.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.AssemblyInfo.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.input.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.TagHelpers.output.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorCoreGenerate.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Files.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cache
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.RazorTargetAssemblyInfo.cs
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.Views.pdb
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.csproj.CopyComplete
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.dll
+C:\Niraj\Project\Final Copy\.Net Core Application\FileUploadApp\FileUploadApp\obj\Debug\netcoreapp3.0\FileUploadApp.pdb
