@@ -57,4 +57,24 @@ As soon as the build is succeeded, it will create the database in the LocalDB. T
 Your Database is created, build the solution and run it and make sure you use **Google Chrome** to open this Web application.
 
 
+## Open The Application as Desktop application:
+
+Using Electron Framework and API pro ELectron.NET API To run The Application as Desktop application, You need to have **npm** and **Electron CLI** installed on your system.
+
+To start the application make sure you have installed the ["ElectronNET.CLI"](https://www.nuget.org/packages/ElectronNET.CLI/) packages as global tool:
+
+> dotnet tool install ElectronNET.CLI -g
+
+At the first time, you need an Electron.NET project initialization. Type the following command in your ASP.NET Core folder:
+
+> electronize init
+
+- Now a electronnet.manifest.json should appear in your ASP.NET Core project
+- Now run the following:
+> electronize start
+
+**Note:** Only the first electronize start is slow. The next will go on faster.
+
+
+
 
